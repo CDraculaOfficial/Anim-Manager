@@ -28,7 +28,7 @@ from Anim_Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
 
-I am an advanced group management bot by @senuinfinity.💫
+I am an advanced group management bot by Senu Gamer Boy.💫
 I can manage your group very easily & safely. You can keep trust on me without any doubt. I am like a public userbot.🔥
 
 Try using me!⚡️
